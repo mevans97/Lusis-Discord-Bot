@@ -55,4 +55,4 @@ class MyClient(discord.Client): # The entire script of what the bot does goes in
 
 
 client = MyClient()
-client.run('MTAwMDEyNjg2NjUzNzA1ODMwNA.GpDuXn.WJDh35OOc-_ThO0ewg7Tjdwcryrhp7hb3jrUV4')
+client.run('MTAwMDEyNjg2NjUzNzA1ODMwNA.GI--FN.magwWqvJztBZ96vAMxGD0o2clRHo3vCt5mWpss')
